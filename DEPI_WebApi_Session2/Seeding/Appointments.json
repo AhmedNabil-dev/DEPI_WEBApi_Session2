@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "PatientId": 1,
+    "DoctorId": 1,
+    "AppointmentDate": "2026-10-15"
+  },
+  {
+    "Id": 2,
+    "PatientId": 2,
+    "DoctorId": 2,
+    "AppointmentDate": "2026-10-16"
+  },
+  {
+    "Id": 3,
+    "PatientId": 3,
+    "DoctorId": 3,
+    "AppointmentDate": "2026-10-17"
+  }
+]
